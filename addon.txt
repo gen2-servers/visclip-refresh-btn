@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"        "Visual Clip"
+	"version"     "128.0"
+	"author_name" "TGfallen"
+	"author_url"  ""
+	"info"        "Some Visual Clip tool"
+}
